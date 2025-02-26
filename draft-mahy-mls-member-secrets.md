@@ -9,8 +9,8 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: ""
+workgroup: "Messaging Layer Security"
 keyword:
  - member secrets
  - DS privacy
@@ -18,12 +18,12 @@ keyword:
  - metadata privacy
  - MIMI pseudonyms
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Messaging Layer Security"
+  type: ""
+  mail: "mls@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/mls/"
+  github: "rohanmahy/mls-member-secrets"
+  latest: "https://rohanmahy.github.io/mls-member-secrets/draft-mahy-mls-member-secrets.html"
 
 author:
  -
